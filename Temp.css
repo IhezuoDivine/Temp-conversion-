@@ -1,0 +1,45 @@
+body {
+  background-color:olive;
+  text-align: center
+}
+div{
+  text-align: center ;
+  margin:auto;
+  border-radius: 8px;
+  max-width:350px;
+  margin-top: 40%;
+  padding: 5px 15px 80px;
+  background-color:beige;
+}
+#textbox{
+  width: 80%;
+  text-align: center;
+  font-size:2em ;
+  background-color: olive;
+  color: beige;
+}
+h1{
+  font-size: 3em;
+  color:olive;
+  shape-outside: 5px;
+}
+label{
+  font-size: 2em; 
+  color:olive;
+}
+button{
+  background-color:olive;
+  padding: 10px 25px;
+  color: tan;
+  border-radius: 10px;
+  border-style: none;
+  font-size:2em;
+}
+p{
+  size: 1em;
+  color:olive;
+  font-size: 2em;
+}
+button:hover{
+  background-color:seagreen;
+}
